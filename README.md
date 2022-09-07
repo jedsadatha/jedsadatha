@@ -11,8 +11,8 @@
 * Email: jedsada.thavornfung@utexas.edu
 * LinkedIn: https://www.linkedin.com/in/jedsadath/
 <p align="left">
-<a href="https://www.linkedin.com/in/jedsadath/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/j_jedsada_j/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jedsadath/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/j_jedsada_j/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157806/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ![Jedsada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedsadatha&theme=slateorange&show_icons=true)
