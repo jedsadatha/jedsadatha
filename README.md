@@ -15,10 +15,7 @@
 <a href="https://www.instagram.com/j_jedsada_j/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157806/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![Jedsada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedsadatha&theme=slateorange&show_icons=true)
-
-### Test:
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=jedsadatha&hide_title=false&show_icons=true&include_all_commits=true&line_height=21&bg_color=2E2E2E&theme=slateorange" /><img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedsadatha&hide_title=true&layout=compact&bg_color=2E2E2E&theme=slateorange" />
 
 <!--
 **jedsadatha/jedsadatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
