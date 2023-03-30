@@ -9,7 +9,7 @@
 * I like studying Psychology and working with data. At first, my interest in data science was ignited from working in a project for my Statistic Class. Then, I received an valuable opportunites to work as Data Science Intern, provided by Psychology Department at UT. It was the moment that hooked me into this field even more.  
 
 ## ✉️ Contacts ✉️:
-* Email: jedsada.thavornfung@utexas.edu
+* Email: jedsada.thavornfung@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jedsadath/
 <p align="left">
 <a href="https://www.linkedin.com/in/jedsadath/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="" height="30" width="40" /></a>
