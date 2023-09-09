@@ -1,10 +1,9 @@
 [![Hello](https://user-images.githubusercontent.com/107713085/188771577-ca5ec4fb-0644-4612-b370-fa54bb5720cc.png)](https://github.com/jedsadatha/jedsadatha)
 
 ## 👁 A little bit about me 👁: 
-* I am a student at **_the University of Texas at Austin_**, Class of 2023 🧡.
+* I graduated from **_the University of Texas at Austin_**, Class of 2023 🧡.
 * **Major**: _B.S, Psychology_.
 * **Certificate**: _Pre-Health_ ⛑ and _Forensics Science_ 🔬 Certificates.
-* I am currently learning RStudio.
 * **Fun Facts**: I love watching superheroes movies ([X-Men](https://en.wikipedia.org/wiki/X-Men:_First_Class) 🧬 is my favorite so far). 
 * I like studying Psychology and working with data. At first, my interest in data science was ignited from working in a project for my Statistic Class. Then, I received an valuable opportunites to work as Data Science Intern, provided by Psychology Department at UT. It was the moment that hooked me into this field even more.  
 
