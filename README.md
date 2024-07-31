@@ -1,7 +1,7 @@
 [![Hello](https://user-images.githubusercontent.com/107713085/188771577-ca5ec4fb-0644-4612-b370-fa54bb5720cc.png)](https://github.com/jedsadatha/jedsadatha)
 
 ## Hello! ##
-*Welcome!* to my GitHub. I am Jedsada Thavornfung (Jay). I graduated from the Unviersity of Texas at Austin, class of 2023, with B.S. Psychology along with _Pre-Health_ and _Forensics Science_ Certificates. I'm passionate about merging science and art, with a keen interest in research, data visualization, and graphic design. I strive to create clear and impactful work that simplifies complex ideas, making them accessible and easily understood by all audiences.
+*Welcome!* to my GitHub. I am Jedsada Thavornfung (Jay). I graduated from the University of Texas at Austin, class of 2023, with B.S. Psychology along with _Pre-Health_ and _Forensics Science_ Certificates. I'm passionate about merging science and art, with a keen interest in research, data visualization, and graphic design. I strive to create clear and impactful work that simplifies complex ideas, making them accessible and easily understood by all audiences.
 
 ## ✉️ Contacts ✉️:
 * Email: jedsada.thavornfung@gmail.com
