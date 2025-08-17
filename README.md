@@ -4,6 +4,7 @@
 *Welcome!* to my GitHub. I am Jedsada Thavornfung (Jay). I’m currently pursuing my M.S. in Human-Computer Interaction at Georgia Institute of Technology, building on a strong foundation after earning a B.S. in Psychology from the University of Texas at Austin. My background in research, data analysis, and UX design allows me to approach problems from both analytical and creative perspectives. I’m passionate about understanding human behavior and translating those insights into designs that are intuitive, meaningful, and accessible. My goal is to contribute to the UX field by designing solutions that enhance everyday experiences and help people navigate technology more seamlessly.
 
 ## ✉️ Contacts ✉️:
+* Portfolio: https://jedsadatha.com/
 * Email: jedsada.thavornfung@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jedsadath/
 <p align="left">
