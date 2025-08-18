@@ -7,9 +7,6 @@
 * Portfolio: https://jedsadatha.com/
 * Email: jedsada.thavornfung@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jedsadath/
-<p align="left">
-<a href="https://www.linkedin.com/in/jedsadath/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="" height="30" width="40" /></a>
-</p>
 
   
 <!--
