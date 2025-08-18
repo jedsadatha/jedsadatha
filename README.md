@@ -6,7 +6,7 @@
 ## ✉️ Contacts ✉️:
 * Portfolio: https://jedsadatha.com/
 * Email: jedsada.thavornfung@gmail.com
-* LinkedIn: https://www.linkedin.com/in/jedsadath/
+* LinkedIn: https://www.linkedin.com/in/jedsadatha/
 
   
 <!--
